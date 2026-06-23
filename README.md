@@ -40,7 +40,7 @@ This app helps hospital staff manage patient admissions, view doctor assignments
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/HospitalApp.git
+   git clone https://github.com/pankaj1996saini/HospitalApp.git
    cd HospitalApp
    ```
 
