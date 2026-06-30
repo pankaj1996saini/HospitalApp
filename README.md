@@ -76,6 +76,20 @@ HospitalApp/
 └── README.md
 ```
 
+## Screenshots
+
+![Home Screen](Screenshots/Home.png)
+
+![Patients List](Screenshots/Patients_list.png)
+
+![Search Screen](Screenshots/Search.png)
+
+![Patient Details Screen](Screenshots/Patients.png)
+
+![Add Patient Screen](Screenshots/add_Patient.png)
+
+![Doctors Details](Screenshots/Doctors_list.png)
+
 
 ## Developer
 
